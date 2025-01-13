@@ -1,4 +1,4 @@
-# Eclipse Foundation Config Repo
+ # Eclipse Foundation Config Repo
 
 Repository to host configurations related to the Eclipse Foundation.
 
